@@ -5,11 +5,10 @@ A little project
 
 
 # First
-* You need a code editor
+* You need a code editor, for example either of these
     * [Sublime](http://www.sublimetext.com)
     * [Text Mate](http://macromates.com/download) 
-* And some tools
-* 
+* Maybe we need some more tools that will be added here later
 
 
 # Running local server
@@ -19,27 +18,32 @@ A little project
 
     node --version
   
-Create project folder
+* Create project folder
 
   mkdir project 
   cd project
 
-* Install Express  
+* We will use a node library, called Express, that makes it simple to write a web server
+* npm is a tool for node.js to install libraries that the node.js uses
+* Install Express library (or module)
 
-  npm install express
+    npm install express
 
-* Create folder for web pages
+* Copy the file  server.js in the repo into the project folder and run it
 
-  mkdir public
-  
-
+    node server.js
 
 # Web page
+* In your project folder, create a folder for web pages
+
+  mkdir public
+
 * We will use [Bootstrap](http://getbootstrap.com/getting-started/), which is a framework that simplifies making good looking web pages.
 * Download the Bootstrap libraries, by pressing the button on the [Bootstrap page](http://getbootstrap.com/getting-started/)
 * Go into the Mac's Downloads folder, find the Bootstrap folder, on copy the img, js, css folders to your project/public folder
 * 
 
-# Deploying to cloud
+* Copy the file bootstrap_101.html in the repo above to the public folder
 
-    code  
+# Deploying to cloud
+* Get account at Heroku
