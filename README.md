@@ -3,13 +3,12 @@ web-app
 
 A little project
 
-
 # First
 * You need a code editor, for example either of these
     * [Sublime](http://www.sublimetext.com)
     * [Text Mate](http://macromates.com/download) 
-* Maybe we need some more tools that will be added here later
-
+* Maybe we need some more tools 
+    * Git
 
 # Running local server
 * We will use node.js to run a simple web server
@@ -17,7 +16,7 @@ A little project
 * Open terminal window, check that you have the node
 
     node --version
-  
+
 * Create project folder
 
   mkdir project 
