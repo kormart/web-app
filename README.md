@@ -47,9 +47,9 @@ We will use [Bootstrap](http://getbootstrap.com/getting-started/), which is a fr
 Download the Bootstrap libraries by pressing the button on the [Bootstrap page](http://getbootstrap.com/getting-started/). 
 Go into the Mac's Downloads folder, find the Bootstrap folder, and copy the img, js, css folders to your project/public folder
 
-Copy the file bootstrap_101.html in the repo above to the public folder.
+Copy the file bootstrap101.html in the repo above to the public folder.
 
-Now, point your browser to this web page: [http://localhost:3000/bootstrap_101.html](http://localhost:3000/bootstrap_101.html)
+Now, point your browser to this web page: [http://localhost:3000/bootstrap101.html](http://localhost:3000/bootstrap101.html)
 
 ## Deploying to cloud
 Create an account at [Heroku](https://www.heroku.com). 
